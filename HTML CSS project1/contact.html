@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us!</title>
+    <style>
+        *{
+            padding: 0;
+            margin: 0;
+
+        }
+        body{
+            background-color: grey;
+        }
+        h1{
+            text-align: center;
+        }
+        form{
+            text-align: center;
+        }
+        select{
+            height: 20px;
+            width: 300px;
+        }
+        .one input{
+            height: 20px;
+            width: 300px;
+        }
+    </style>
+</head>
+
+<body>
+<h1>Contact Us</h1>
+<form action="form.php">
+    <select name="select" id="select">
+        <option value="no">Select</option>
+        <option value="site related issues">site related issues</option>
+        <option value="work with us">work with us</option>
+        <option value="feedback">feedback</option>
+        <option value="Others">Others</option>
+    </select>
+    <br>
+    <br>
+    <div class="one">
+        <input type="text" placeholder="Enter Your Name" >
+        <br>
+        <br>
+        <input type="text" placeholder="Enter Your Email" >
+        <br>
+        <br>
+        <input type="text" placeholder="Enter Your Phone No" >
+        <br>
+    </div>
+    
+    <p>Are u a member of Online shop:</p>
+    <label for="yes">
+        <input type="radio" value="yes" name="section" id="yes">
+        Yes
+    </label>
+    <label for="no">
+        <input type="radio" value="no" name="section" id="no">
+        No
+
+    </label>
+    <br>
+    <textarea name="explain" id="explain" cols="40" rows="10" placeholder="Elaborate Your Query here"></textarea>
+    <br>
+    <input type="submit">
+    <input type="reset">
+</form>    
+</body>
+</html>
