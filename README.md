@@ -4,4 +4,6 @@ In CSS - flexbox, animations,transition,transform,responsive websites(media quer
 Make some projects.<br>
 My first CSS/HTML project is about a Restaurant Main page.<br>
 Now I started learning CSS frameworks, first framework that I started learning was TailwindCss.<br>
-To setup TailwindCSS in VSCode, watch this video https://www.youtube.com/watch?v=aUunolbb1xU&list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O&index=3 from 7:54 min .<br>
+To setup TailwindCSS in VSCode, watch this video https://www.youtube.com/watch?v=aUunolbb1xU&list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O&index=3 from 7:54 min or see this screenshot.<br>
+
+![Screenshot (49)](https://github.com/raghavs12/Front-end/assets/135123792/a4c34ad2-fe30-46fe-98b5-652171643da2)
