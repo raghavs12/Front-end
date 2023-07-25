@@ -2,7 +2,7 @@ Firstly Read HTML notes , if you want to see some practical example then you an 
 Then same for CSS notes.<br><br>
 In CSS - flexbox, animations,transition,transform,responsive websites(media queries,vh,vw),margin,border,padding,position property are important.<br><br>
 Make some projects.<br><br>
-My first CSS/HTML project is about a Restaurant Main page. (https://restaurant345.netlify.app/) .<br><br>
+My first CSS/HTML project is about a Restaurant Main page.Its not a responsive one because it was my first project. (https://restaurant345.netlify.app/) .<br><br>
 Now I started learning CSS frameworks, first framework that I started learning was TailwindCss.<br><br>
 To setup TailwindCSS in VSCode, watch this video https://www.youtube.com/watch?v=aUunolbb1xU&list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O&index=3 from 7:54 min or see this screenshot.<br><br>
 
